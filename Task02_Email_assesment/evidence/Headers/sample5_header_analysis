@@ -1,1 +1,27 @@
+Email Header Analysis – Sample 5
 
+Subject: Bank Security Alert
+Sender: security@bank-alerts.net
+
+Findings:
+
+Sender Domain:
+bank-alerts.net
+
+Indicators:
+
+• Sender domain does not correspond to any known banking institution
+• Generic greeting ("Dear Customer")
+• Fear-based language suggesting account restriction
+• Immediate verification request
+• Suspicious external verification link
+
+Authentication Indicators (Expected):
+
+SPF: Fail or Unknown
+DKIM: Not present
+DMARC: Fail
+
+Conclusion:
+
+The sender domain attempts to impersonate a financial institution using urgency and fear tactics. The email encourages users to verify account details through an external link. This email is classified as a phishing attempt.
