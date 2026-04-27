@@ -1,1 +1,23 @@
+PHISHING EMAIL HEADER ANALYSIS – SAMPLE 2
+
+Sender Email:
+billing@amazon-security.co
+
+Indicators:
+
+• Domain does not belong to Amazon
+• Amazon uses amazon.com domain only
+• SPF authentication failed
+• Domain recently registered
+
+Technical Findings:
+
+Originating IP:
+91.214.124.22
+
+Location:
+Unknown hosting provider
+
+Conclusion:
+The email attempts to impersonate Amazon services.
 
