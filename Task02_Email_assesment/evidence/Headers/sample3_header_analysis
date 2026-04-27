@@ -1,1 +1,18 @@
+PHISHING EMAIL HEADER ANALYSIS – SAMPLE 3
+
+Sender:
+microsoft-alert@secure-login.net
+
+Indicators:
+
+• Microsoft domain not used
+• Suspicious domain name
+• SPF authentication failed
+• No DKIM signature
+
+Originating Server:
+Hosting provider not associated with Microsoft
+
+Conclusion:
+Spoofed email attempting credential theft.
 
