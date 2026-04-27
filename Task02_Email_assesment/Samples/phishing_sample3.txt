@@ -1,0 +1,16 @@
+Subject: Your Microsoft Account Security Alert
+
+From: microsoft-alert@secure-login.net
+
+Dear User,
+
+We detected suspicious login attempts on your Microsoft account.
+
+To secure your account please verify your identity.
+
+Verify now:
+http://microsoft-account-check[.]net
+
+Failure to act may result in account suspension.
+
+Microsoft Security Team

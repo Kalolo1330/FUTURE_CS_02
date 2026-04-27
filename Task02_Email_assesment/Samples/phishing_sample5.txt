@@ -1,0 +1,12 @@
+Subject: Bank Security Alert
+
+From: security@bank-alerts.net
+
+Dear Customer,
+
+Your bank account has been temporarily restricted due to suspicious activity.
+
+Confirm your identity to restore access.
+
+Verify now:
+http://bank-secure-check[.]net

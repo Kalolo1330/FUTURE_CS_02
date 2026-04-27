@@ -1,0 +1,14 @@
+Subject: Dropbox Storage Limit Reached
+
+From: support@dropbox-verification.com
+
+Dear User,
+
+Your Dropbox storage is almost full.
+
+To continue receiving files, verify your account.
+
+Verify here:
+http://dropbox-storage-check[.]com
+
+Dropbox Support

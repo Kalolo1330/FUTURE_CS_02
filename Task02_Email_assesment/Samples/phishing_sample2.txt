@@ -1,0 +1,15 @@
+Subject: Amazon Order Problem – Action Required
+
+From: billing@amazon-security.co
+
+Dear Customer,
+
+We were unable to process your recent Amazon order due to a billing issue.
+
+Please update your payment information to avoid cancellation.
+
+Update billing details:
+http://amazon-billing-update[.]com
+
+Thank you for shopping with Amazon.
+Amazon Billing Department
