@@ -1,0 +1,17 @@
+PHISHING LINK ANALYSIS – SAMPLE 3
+
+URL:
+http://microsoft-account-check[.]net
+
+Indicators:
+
+• Fake Microsoft login domain
+• No HTTPS encryption
+• Domain created recently
+• Page designed to mimic Microsoft login page
+
+Risk:
+Credential harvesting attack.
+
+Conclusion:
+Malicious phishing link.

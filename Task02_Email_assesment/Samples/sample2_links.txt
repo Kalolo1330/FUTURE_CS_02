@@ -1,0 +1,19 @@
+PHISHING LINK ANALYSIS – SAMPLE 2
+
+URL:
+http://amazon-billing-update[.]com
+
+Observations:
+
+• Fake domain pretending to be Amazon
+• HTTP connection (not secure)
+• Requests credit card information
+• Recently registered domain
+
+Security Risk:
+
+Financial information theft
+Credit card fraud
+
+Conclusion:
+Malicious phishing website.
