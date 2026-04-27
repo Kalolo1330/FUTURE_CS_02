@@ -1,1 +1,27 @@
+Email Header Analysis – Sample 4
 
+Subject: Dropbox Storage Limit Reached
+Sender: support@dropbox-verification.com
+
+Findings:
+
+Sender Domain:
+dropbox-verification.com
+
+Indicators:
+
+• Domain impersonates the legitimate Dropbox service
+• Sender domain does not match the official Dropbox domain (dropbox.com)
+• Generic greeting ("Dear User")
+• Urgent request to verify account
+• Suspicious external verification link
+
+Authentication Indicators (Expected):
+
+SPF: Fail or Unknown
+DKIM: Not present
+DMARC: Fail
+
+Conclusion:
+
+The sender domain attempts to imitate Dropbox branding but does not belong to the official Dropbox infrastructure. The email uses urgency and account verification language to trick users into clicking a malicious link. This email is classified as a phishing attempt.
