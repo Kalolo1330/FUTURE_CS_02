@@ -52,41 +52,7 @@ ii.Kali terminal
 ---
 
 ##  PROJECT STRUCTURE 
-┌──(kali㉿Augustine)-[~/GITHUB]
-└─$ tree
-.
-└── FUTURE_CS_02
-    ├── README.md
-    └── Task02_Email_assesment
-        ├── evidence
-        │   ├── Headers
-        │   │   ├── sample1_header_analysis
-        │   │   ├── sample2_header_analysis
-        │   │   ├── sample3_header_analysis
-        │   │   ├── sample4_header_analysis
-        │   │   └── sample5_header_analysis
-        │   ├── Link_Analysis
-        │   │   ├── sample1_links.txt
-        │   │   ├── sample2_links.txt
-        │   │   ├── sample3_links.txt
-        │   │   ├── sample4_links.txt
-        │   │   └── sample5_links.txt
-        │   └── screenshots
-        │       ├── mxtoolbox_sample1.png
-        │       ├── mxtoolbox_sample2.png
-        │       ├── mxtoolbox_sample3.png
-        │       ├── mxtoolbox_sample4.png
-        │       └── mxtoolbox_sample5.png
-        ├── Report
-        │   └── Phishing_Awareness_Report.pdf
-        └── Samples
-            ├── phishing_sample1.txt
-            ├── phishing_sample2.txt
-            ├── phishing_sample3.txt
-            ├── phishing_sample4.txt
-            └── phishing_sample5.txt
 
-
-
+<img width="735" height="644" alt="Screenshot 2026-04-27 113907" src="https://github.com/user-attachments/assets/0f2d4660-c06c-471e-ae0a-59df5fd9843b" />
 
 
