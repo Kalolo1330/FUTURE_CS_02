@@ -1,1 +1,26 @@
+PHISHING EMAIL HEADER ANALYSIS – SAMPLE 1
+
+Analysis Tool:
+MXToolbox Email Header Analyzer
+
+Sender Address:
+security@paypaI-support.com
+
+Suspicious Indicators:
+
+• Domain impersonates PayPal (paypal.com)
+• Letter substitution detected (paypaI instead of paypal)
+• SPF authentication failed
+• DKIM signature missing
+• DMARC authentication failed
+
+Originating IP:
+185.234.219.45
+
+IP Location:
+Eastern Europe
+
+Conclusion:
+The email originates from an unrelated server and attempts to impersonate PayPal.
+
 
