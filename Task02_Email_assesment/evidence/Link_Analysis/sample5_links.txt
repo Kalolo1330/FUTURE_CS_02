@@ -1,0 +1,17 @@
+Link Analysis – Sample 5
+
+Detected Link:
+http://bank-secure-check[.]net
+
+Observations:
+
+• Domain is not associated with any legitimate bank
+• Uses HTTP instead of HTTPS
+• Domain name attempts to appear legitimate 
+• Likely used for credential harvesting
+
+Risk Classification:
+Phishing
+
+Conclusion:
+The link is likely designed to redirect users to a fake banking login page in order to steal credentials.

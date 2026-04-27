@@ -1,0 +1,23 @@
+PHISHING LINK ANALYSIS – SAMPLE 1
+
+Suspicious URL:
+http://paypal-account-verification[.]com/login
+
+Domain Observations:
+
+• Domain is not owned by PayPal
+• Recently registered domain
+• Uses HTTP instead of HTTPS
+• Attempts to imitate official login page
+
+Security Risks:
+
+• Credential harvesting
+• Account takeover
+• Identity theft
+
+Conclusion:
+The link is malicious and designed to steal login credentials.
+
+Risk Level:
+HIGH
